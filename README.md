@@ -4,6 +4,7 @@ A data analytics project exploring customer shopping behavior using Python, SQL,
 The project covers end-to-end analysis—from data loading and cleaning to SQL business insights and dashboard creation.
 
 🧠 Retail Customer Insights & Behavioral Analytics
+
 📌 Overview
 
 This project analyzes customer shopping behavior using a dataset of 3,900 retail transactions.
@@ -110,7 +111,7 @@ The top 3 best-selling items in each category drove most category-level sales.
 
 Subscribers spent more and purchased more often, proving the effectiveness of subscription plans.
 
-💡 Business Recommendations (Concise)
+💡 Business Recommendations 
 
 Enhance subscription benefits to increase conversion and retention.
 
